@@ -1,0 +1,35 @@
+html{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.container{
+    margin: 30px;
+    padding: 20px;
+}
+
+h1{
+    text-align: center;
+    margin-bottom: 3%;
+    margin-top: 3%;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    font-size: 50px;
+    text-shadow: 2px 3px 3px #b3b3b3;
+}
+
+h2{
+    text-align: center;
+    text-transform: uppercase;
+    margin-bottom: 3%;
+    letter-spacing: 1px;
+    font-size: 40px; 
+    border-bottom: solid 2px black;
+    border-top: solid 2px black;
+}
+
+iframe{
+    width: 35em;
+    height: 20em;
+    margin-right: auto;
+    margin-left: auto;
+}

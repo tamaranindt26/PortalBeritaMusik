@@ -1,0 +1,39 @@
+.navbar{
+    font-size: 20px;
+    padding: 10px 20px;
+    background: #f2f2f2;
+    color: black;
+    height: 50px;
+}
+
+.collapse{
+    background-color: #f2f2f2;
+    color: black;
+}
+
+.navbar .navbar-brand img{
+    margin-top: 20px;
+    width: 90px;
+    height: 70px;
+    box-shadow: 0 0 5px 0 rgba(0,0,0,0.2);
+    border-radius: 5%;
+}
+
+.navbar .navbar-brand img:hover{
+    box-shadow: 0 0 5px 3px rgba(0,0,0,0.2);
+}
+
+.navbar ul li a{
+    color: #fff;
+    padding: 10px 20px;
+}
+
+.btn{
+    border: solid .5px gray;
+    color: gray;
+}
+
+.btn:hover{
+    border: #333;
+    background: rgba(0,0,0,.5);
+}

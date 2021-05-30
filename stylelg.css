@@ -1,0 +1,62 @@
+body{
+    background: url(images/lagu.jpg);
+    background-size: cover;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1{
+    margin-bottom: 20px;
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    font-size: 50px;
+    color: white;
+    text-shadow: 0 8px 12px black;
+}
+
+.card{
+    width: 200px;
+    margin: auto;
+    height: 400px;
+}
+
+.card-body{
+    text-align: center;
+}
+
+.card-body p{
+    margin: 0;
+    font-size: 20px ;
+    font-weight: 700;
+}
+
+.card-tittle{
+    font-size: 30px;
+    color: black;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+.card-text{
+    font-size: 15px ;
+}
+
+.card-text span{
+    font-size: 17px ;
+    font-weight: 700;
+}
+
+.card-date{
+    font-size: 15px;
+}
+
+.card img{
+    max-height: 170px;
+    overflow: hidden;
+}
+
+.fab{
+    font-size: 30px; 
+    color: black;
+    padding: 5px;
+}
